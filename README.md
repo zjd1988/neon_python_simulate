@@ -9,7 +9,7 @@
  - 3、 ncnn和ACL库中涉及的并行算法
 
 ## 实现
- - 1、 会参考这个链接（https://developer.arm.com/technologies/neon/intrinsics）中的内联指令进行移植
+ - 1、 会参考这个链接（ https://developer.arm.com/technologies/neon/intrinsics ）中的内联指令进行移植
  - 2、 每个内联指令会包含参数说明、C语言示例、python示例
  - 3、 依赖numpy库
 
